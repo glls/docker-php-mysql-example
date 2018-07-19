@@ -4,7 +4,7 @@
 ## Requirements
 
 - [Composer](https://getcomposer.org/)
-- [Docker] (https://docs.docker.com/)
+- [Docker](https://docs.docker.com/)
 - [Docker compose](https://docs.docker.com/compose/install/).
 
 ## Running the code
