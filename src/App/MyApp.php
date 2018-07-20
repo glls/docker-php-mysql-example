@@ -5,7 +5,12 @@ class MyApp
 {
     public function hello()
     {
-        echo '<h1>Hello World of PHP 7</h1>';
+        echo '<h1>Hello World of PHP '.(5+2).'</h1>';
+        // $this->showInfo();
+    }
+
+    private function showInfo()
+    {
         phpinfo();
     }
 }
