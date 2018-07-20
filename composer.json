@@ -1,11 +1,11 @@
 {
-    "name": "niklongstone/learning-php7",
+    "name": "gl/example-php7",
     "description": "My application",
     "license": "MIT",
     "authors": [
         {
-            "name": "Nicola Pietroluongo",
-            "email": "nik.longstone@gmail.com"
+            "name": "George Litos",
+            "email": "glitos@schoox.com"
         }
     ],
     "autoload": {
