@@ -1,11 +1,12 @@
-# Docker Compose PHP 7
+# Docker-Compose-PHP-MySQL
 
+An example using PHP7.2 and MySQL8 with docker-compose
 
 ## Requirements
 
 - [Composer](https://getcomposer.org/)
 - [Docker](https://docs.docker.com/)
-- [Docker compose](https://docs.docker.com/compose/install/).
+- [Docker compose](https://docs.docker.com/compose/install/)
 
 ## Running the code
 
