@@ -1,5 +1,5 @@
 web:
-  image: php:7.0-apache
+  image: php:7.2-apache
   ports:
     - "8080:80"
   volumes:
@@ -9,7 +9,7 @@ web:
     - mysql
 
 mysql:
-  image: mysql:5.7
+  image: mysql:8.0
   ports:
     - "3305:3306"
   environment:
